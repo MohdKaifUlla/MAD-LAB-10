@@ -61,21 +61,16 @@ The retrieved contact names are displayed in a ListView using ArrayAdapter.
 
 ### 1. Application Home Screen
 
-<!-- Add your application home screen screenshot here -->
-
-![Application Home Screen](screenshots/home_screen.png)
+<img width="1080" height="2358" alt="mad 10 a" src="https://github.com/user-attachments/assets/36abb1b3-07bd-46ae-8396-2a5559affac8" />
 
 ### 2. Contact Permission Request
+<img width="1080" height="2358" alt="mad 10 b" src="https://github.com/user-attachments/assets/1ecd5d97-fce2-4417-968e-f5027f18ca05" />
 
-<!-- Add your permission request screenshot here -->
-
-![Contact Permission](screenshots/contact_permission.png)
 
 ### 3. Displaying Contact List
 
-<!-- Add your contact list screenshot here -->
+<img width="732" height="1600" alt="mad 10 c" src="https://github.com/user-attachments/assets/2a813e17-e64e-4593-af3e-87e36874d5f2" />
 
-![Contact List](screenshots/contact_list.png)
 
 ## Learning Outcomes
 
